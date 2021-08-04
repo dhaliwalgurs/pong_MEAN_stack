@@ -1,7 +1,7 @@
 # pong_MEAN_stack
 
-**Description**
+## Description
 A basic pong application using a stripped down MEAN stack. 
 
-**Features Available**
-Makes use a of basic AI in order to play a single player mode.
+## Features Available
+-	Makes use a of basic AI in order to play a single player mode.
