@@ -4,4 +4,4 @@
 An online pong program written using Javascript making use of stripped down MEAN stack. 
 
 ## Features Available
--	Makes use a of basic AI in order to play a single player mode.
+-	Makes use of a basic AI in order to play a single player mode.
